@@ -1,3 +1,3 @@
 # logistic-control
 
-<!-- [![CI](https://github.com/thiagofa/algalog-api/actions/workflows/ci.yaml/badge.svg)](https://github.com/thiagofa/algalog-api/actions/workflows/ci.yaml) -->
+[![CI](https://github.com/edujudici/algalog-api/actions/workflows/ci.yaml/badge.svg)](https://github.com/edujudici/algalog-api/actions/workflows/ci.yaml)

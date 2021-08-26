@@ -94,7 +94,7 @@
 		<repository>
 			<id>github</id>
 			<name>GitHub Packages</name>
-			<url>https://maven.pkg.github.com/thiagofa/algalog-api</url>
+			<url>https://maven.pkg.github.com/edujudici/algalog-api</url>
 		</repository>
 	</distributionManagement>
 
